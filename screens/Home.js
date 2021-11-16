@@ -10,7 +10,7 @@ import RestaurantItems, {
 import SearchBar from "../components/home/SearchBar";
 
 const YELP_API_KEY =
-  "bdRJutLhFAQJ36t7b89CWjHFBU4OKzjt9wvZzcY-nkgmvTqlNMjZWV1eG7iBQ9R74SyfxRg9LWnBAkZY06BtAZAe4d2dfX-2vuX8a1l5V7foctHfX9UKEyoM5ts3YXYx";
+  "5QF3JRsxUqJvApTgsYGkNFFCbpmaai9-I9g0HF1HdcNDc0Bt7UYXLIuTdWp2b7E6VJoSzLPy49te7E0Jkvhrcvcc3XiJ6RwpEoxwYXw6eWNe__0GwwQc7D82XuiTYXYx";
 
 export default function Home({ navigation }) {
   const [restaurantData, setRestaurantData] = useState(localRestaurants);
@@ -19,7 +19,7 @@ export default function Home({ navigation }) {
 
   const getRestaurantsFromYelp = () => {
     const yelpUrl = `https://api.yelp.com/v3/businesses/search?term=restaurants&location=${city}`;
-
+   
     const apiOptions = {
       headers: {
         Authorization: `Bearer ${YELP_API_KEY}`,
