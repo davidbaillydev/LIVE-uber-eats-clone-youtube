@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "LIVE-uber-eats-clone-youtube",
+    "slug": "live-uber-eats-clone-youtube",
+    "version": "1.0.0",
+    "sdkVersion": "42.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ]
+  }
+}
