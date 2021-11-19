@@ -5332,10 +5332,10 @@ react-native-bottomsheet-reanimated@^0.0.44:
   resolved "https://registry.yarnpkg.com/react-native-bottomsheet-reanimated/-/react-native-bottomsheet-reanimated-0.0.44.tgz#171d45670328bfa2679fd8da4d87263e6315125f"
   integrity sha512-g82LpwMCAS1mNvW2q8M6hXwTBgXOAKrPRNx0rtdHuw8utY1WffmdwTB+dzXYa8xvnZUEPrIUHdsn875eSCO2AA==
 
-react-native-bouncy-checkbox@^2.1.4:
-  version "2.1.4"
-  resolved "https://registry.npmjs.org/react-native-bouncy-checkbox/-/react-native-bouncy-checkbox-2.1.4.tgz"
-  integrity sha512-5VKyHBk5wzTLZUexpzim/DtBCqM6n43tOgimIAh5cV6+syJm+FMBq+c4LgFr/dT0EVH24h1B1zmaX6xyYeYEJA==
+react-native-bouncy-checkbox@^2.1.7:
+  version "2.1.7"
+  resolved "https://registry.yarnpkg.com/react-native-bouncy-checkbox/-/react-native-bouncy-checkbox-2.1.7.tgz#531b40b82d1ce173509b4af1b2c7b84119f1a876"
+  integrity sha512-0u7u8ES9GJmVk+Pfv/DClCdf5Sjcu3lwqnFoqRkHkw31ZQRmkqJAHgZO7JV+I5lvJD6Kq9Wv9PwQo2YpEOgltQ==
   dependencies:
     react-native-apple-header "^0.1.1"
     react-native-bottom-search-bar "^0.1.3"
